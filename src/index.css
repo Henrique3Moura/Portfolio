@@ -1,14 +1,17 @@
 
 :root {
-  font-family: 'Opens sans', sans-serif;
+  font-family: 'Coco Gothic', sans-serif;
+  
+
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  
 
---primary: #000028;
---secondary: #001540;
+--primary: #1A1A1A;
+--secondary: #014BA0;
 --terceary: #003077;
 --white: #fefefe;
 --black: #111;
